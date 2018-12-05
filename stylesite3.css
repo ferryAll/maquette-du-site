@@ -1,6 +1,7 @@
 
 header {
     background-image: url("Tokyo.jpg");
+    text-align: center;
 }
 
 .lien {
@@ -26,10 +27,3 @@ p{
     margin-left: 50px;
 }
 
-.h{
-    color:white;
-    text-align: center;
-}
-.lien2{
-    text-align: center;
-}
