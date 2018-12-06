@@ -40,24 +40,30 @@ p{
 .img1{
     background-image: url("Tokyo.jpg");
     margin-right: 25px;
+    position: relative;
 }
 .img2{
     background-image: url("Tokyo.jpg");
     margin-right: 25px;
+    position: relative;
 }
 .img3{
     background-image: url("Tokyo.jpg");
     margin-right: 25px;
+    position: relative;
 }
 .img4{
     background-image: url("camera-retro-solid.svg");
     
+    position: relative;
 }
 .img5{
     background-image: url("Tokyo.jpg");
+    position: relative;
     
 }
 .img6{
     background-image: url("Tokyo.jpg");
+    position: relative;
     
 }
