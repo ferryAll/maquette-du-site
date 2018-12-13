@@ -71,3 +71,13 @@ p{
 .imgd{
     float: left;
 }
+
+.fa-paper-plane{
+    float: left;
+    margin-left: 95px;
+}
+
+.fa-share-alt-square{
+    float: right;
+    font-size: 210px;
+}
